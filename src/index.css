@@ -5,9 +5,33 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.nav{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #F55A5A;
+
+}
+
+.icon-earth{
+  width: 34px;
+  height: 34px;
+  margin: 10px;
+  
+ 
+
+}
+
+.title-navbar{
+font-style: normal;
+font-weight: 500;
+font-size: 24.4608px;
+line-height: 18px;
+letter-spacing: -0.075em;
+
 }
